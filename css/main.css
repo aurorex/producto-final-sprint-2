@@ -1,0 +1,74 @@
+#students{
+  box-sizing: content-box;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+.colum-left,.colum-right,.colum-1,.colum-2{
+  display: inline-block;
+  margin: 7px;
+}
+.colum-left{
+  float: left;
+  width:23%;
+  padding: 7px;
+  background: gray;
+  border-radius: 5px;
+}
+.colum-right{
+  width: 60%;
+}
+.search{
+  background: gray;
+  width: 700px;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+input{
+  background: gray;
+  border: none;
+  outline: none;
+  border-radius:
+  width: 680px;
+}
+.icon-search{
+  display: inline-block;
+  margin: 5px;
+}
+.students-skills{
+  width: 700px;
+  background: gray;
+  border-radius: 5px;
+}
+figure{
+  display: inline-block;
+  margin: 5px;
+  float: left;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+.colum-1 ul{
+ padding: 0;
+}
+.colum-1 ul li{
+  padding: 2px;
+  display: inline-block;
+  list-style: none;
+  font-size: 10px;
+  margin-right: 20px;
+  background: white;
+
+}
+.colum-2{
+  float: right;
+  margin:10px;
+}
+.box{
+  display: inline-block;
+  padding: 5px;
+  background: white;
+}
