@@ -6,25 +6,6 @@
 .capital-letter {
   text-transform: uppercase;
 }
-header {
-  text-align: center;
-  font-size:36px;
-}
-.logo {
-  width: 300px;
-  text-align: center;
-  display: inline-block;
-}
-.icons-header {
-  display: inline-block ;
-  position: absolute;
-  right:0px;
-  margin: 20px;
-}
-.icons-header i {
-  padding: 0 5px;
-  color: rgba(0, 0, 0, 0.54)
-}
 .section-1{
   height: 150px;
   background: #e1e1e1;
@@ -113,7 +94,7 @@ header {
 .search{
   position: absolute;
   left: 0;
-  width: 820px;
+  width: 800px;
   height: 40px;
   top: 0;
   border-radius: 5px;
@@ -150,7 +131,7 @@ input{
 }
 .figure .image{
   width: 160px;
-  height: 180px;
+  height: 160px;
 }
 .colum-1{
   font-size: 20px;
